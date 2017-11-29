@@ -1,0 +1,17 @@
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Program.Unit.Test.dll
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Program.Unit.Test.pdb
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Castle.Core.dll
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\MathNet.Numerics.dll
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Moq.dll
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\nunit.framework.dll
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Program.exe
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Program.pdb
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Castle.Core.xml
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\MathNet.Numerics.xml
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Moq.xml
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\nunit.framework.xml
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\obj\Debug\Program.Unit.Test.csprojResolveAssemblyReference.cache
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\obj\Debug\Program.Unit.Test.dll
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\obj\Debug\Program.Unit.Test.pdb
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\bin\Debug\Program.exe.config
+G:\Workarea\CVSim\cvsim\Program.Unit.Test\obj\Debug\Program.Unit.Test.csproj.CoreCompileInputs.cache

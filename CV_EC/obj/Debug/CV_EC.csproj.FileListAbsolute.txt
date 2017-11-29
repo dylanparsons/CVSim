@@ -1,0 +1,12 @@
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\CV_EC.exe.config
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\CV_EC.exe
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\CV_EC.pdb
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\Program.exe
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\MathNet.Numerics.dll
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\Program.pdb
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\MathNet.Numerics.xml
+G:\Workarea\CVSim\cvsim\CV_EC\obj\Debug\CV_EC.csprojResolveAssemblyReference.cache
+G:\Workarea\CVSim\cvsim\CV_EC\obj\Debug\CV_EC.exe
+G:\Workarea\CVSim\cvsim\CV_EC\obj\Debug\CV_EC.pdb
+G:\Workarea\CVSim\cvsim\CV_EC\bin\Debug\Program.exe.config
+G:\Workarea\CVSim\cvsim\CV_EC\obj\Debug\CV_EC.csproj.CoreCompileInputs.cache
