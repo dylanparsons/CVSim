@@ -5,4 +5,4 @@ Copyright (C) 2017, Dylan Parsons – [@dylanparsons](https://github.com/dylanpa
 
 Distributed under the  GNU GENERAL PUBLIC LICENSE, version 3. See ``LICENSE`` for more information.
 
-[https://github.com/dylanparsons/BlackJack](https://github.com/dylanparsons/BlackJack)
+[https://github.com/dylanparsons/CVSim](https://github.com/dylanparsons/CVSim)
